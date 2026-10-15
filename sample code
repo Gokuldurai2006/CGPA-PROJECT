@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void)
+{
+    printf("SGPA and CGPA Calculator\n");
+    printf("GCC is working successfully!\n");
+
+    return 0;
+}
